@@ -1,152 +1,155 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jinsik Bang",
+    "email": "bang@unist.ac.kr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jinsikbang.github.io",
+    "googlescholar": "https://scholar.google.com/citations?user=f3n1NgkAAAAJ",
+    "summary": "Ph.D. Student at UNIST Graduate School of Artificial Intelligence, IMML Lab. Research interests: Embodied AI, Vision-Language Models, Multimodal Learning, Generative Models.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Ulsan",
+      "countryCode": "KR",
+      "region": "Ulsan"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Jinsik Bang",
+        "url": "https://scholar.google.com/citations?user=f3n1NgkAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pas342423",
+        "url": "https://github.com/pas342423"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jinsik-bang-636552271",
+        "url": "https://www.linkedin.com/in/jinsik-bang-636552271/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "UNIST, Graduate School of Artificial Intelligence",
+      "position": "Research Student (Ph.D.)",
+      "website": "https://ai.unist.ac.kr",
+      "startDate": "2024-03",
+      "endDate": "",
+      "summary": "Research on embodied agents and vision-language models under Prof. Taehwan Kim (IMML Lab).",
+      "highlights": []
+    },
+    {
+      "company": "Tech University of Korea, Department of Computer Engineering",
+      "position": "Research Student (Undergraduate)",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2022-12",
+      "summary": "Undergraduate research assistant.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Ulsan National Institute of Science and Technology (UNIST)",
+      "area": "Artificial Intelligence",
+      "studyType": "Ph.D.",
+      "startDate": "2024-03",
+      "endDate": "",
+      "gpa": "4.1/4.3",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Tech University of Korea",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2017-03",
+      "endDate": "2024-03",
+      "gpa": "4.28/4.5",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "C++", "C"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {"name": "Embodied AI"},
+    {"name": "Vision-Language Models"},
+    {"name": "Multimodal Learning"},
+    {"name": "Generative Models"}
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Environmental Understanding Vision-Language Model for Embodied Agent",
+      "publisher": "CVPR Findings (CVPRF 2026)",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Jinsik Bang, Jaeyeon Bae, Donggye Lee, Siyeol Jung, Taehwan Kim."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Multi-aspect Knowledge Distillation with Large Language Model",
+      "publisher": "CVPR Workshop (CVPRW 2025)",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "Taegyeong Lee*, Jinsik Bang*, Soyeong Kwon, Taehwan Kim. (* equal contribution)"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Trajectory-aware Success and Failure Experience Retrieval for VLM Agent",
+      "event": "Embodied AI Workshop @ CVPR 2026",
+      "date": "2026-06-01",
+      "location": "Denver, United States",
+      "description": "Somin Lee, Jinsik Bang, Taehwan Kim. Poster."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Environmental Understanding Generation with M-LLM for Embodied AI",
+      "event": "Embodied AI Workshop @ CVPR 2024",
+      "date": "2024-06-01",
+      "location": "Seattle, United States",
+      "description": "Jinsik Bang, Taehwan Kim. Poster."
     }
   ],
-  "teaching": [
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "AI Star Fellowship",
+      "date": "2025-09",
+      "awarder": "UNIST",
+      "summary": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "title": "Academic Excellence Scholarship",
+      "date": "2022-11",
+      "awarder": "Tech University of Korea",
+      "summary": ""
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Full-tuition Scholarship",
+      "date": "2022-06",
+      "awarder": "Tech University of Korea",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2021-12",
+      "awarder": "Tech University of Korea",
+      "summary": ""
+    },
+    {
+      "title": "Full-tuition Scholarship",
+      "date": "2021-06",
+      "awarder": "Tech University of Korea",
+      "summary": ""
     }
   ]
 }
