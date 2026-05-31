@@ -20,10 +20,10 @@ I received my B.S. degree in Computer Engineering from Tech University of Korea.
 
 ## News
 
-- **[Jun. 2026]** One paper accepted at Embodied AI Workshop @ CVPR 2026: *Trajectory-aware Success and Failure Experience Retrieval for VLM Agent*, Denver
+- **[May. 2026]** One paper accepted at Embodied AI Workshop @ CVPR 2026: *Trajectory-aware Success and Failure Experience Retrieval for VLM Agent*, Denver
 - **[Feb. 2026]** One paper accepted at CVPRF 2026: *Environmental Understanding VLM for Embodied Agent*
 - **[Mar. 2025]** One paper accepted at CVPRW 2025: *Multi-aspect Knowledge Distillation with LLM*
-- **[Jun. 2024]** One paper accepted at Embodied AI Workshop @ CVPR 2024: *Environmental Understanding Generation with M-LLM for Embodied AI*, Seattle
+- **[May. 2024]** One paper accepted at Embodied AI Workshop @ CVPR 2024: *Environmental Understanding Generation with M-LLM for Embodied AI*, Seattle
 - **[Mar. 2024]** Started integrated M.S./Ph.D. program at UNIST IMML Lab
 
 ## Contact
