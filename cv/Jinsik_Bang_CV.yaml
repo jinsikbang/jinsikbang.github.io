@@ -1,0 +1,177 @@
+cv:
+  name: Jinsik Bang
+  headline: Ph.D. Student, Graduate School of Artificial Intelligence, UNIST
+  location: Ulsan, South Korea
+  email: bang@unist.ac.kr
+  website: https://jinsikbang.github.io
+  sections:
+    research_interests:
+      - label: Research Focus
+        details: Embodied AI and Multimodal Learning, with an emphasis on reasoning for embodied agents built on Vision-Language Models (VLMs), Vision-Language-Action Models (VLAs), and World Action Models (WAMs)
+      - label: Research Vision
+        details: To develop embodied agents that perceive and understand their surroundings, decide for themselves, and generalize to long-horizon, complex tasks, not only in simulation but also in real-world environments
+
+    education:
+      - institution: Ulsan National Institute of Science and Technology (UNIST)
+        area: Artificial Intelligence
+        degree: Integrated M.S.–Ph.D. Program
+        location: Ulsan, Korea
+        start_date: 2024-03
+        end_date: present
+        highlights:
+          - 'GPA: 4.1 / 4.3'
+          - 'Advisor: Prof. Taehwan Kim'
+          - Research on Embodied AI with Vision-Language Models, Vision-Language-Action Models, and World Action Models
+      - institution: Tech University of Korea
+        area: Computer Engineering
+        degree: B.S.
+        location: Siheung, Korea
+        start_date: 2017-03
+        end_date: 2024-03
+        highlights:
+          - 'GPA: 4.28 / 4.5, Cum Laude'
+
+    research_experience:
+      - company: Interactive Multimodal Machine Learning Lab (IMML Lab), UNIST
+        position: Undergraduate Research Intern
+        location: Ulsan, Korea
+        start_date: 2023-06
+        end_date: 2023-08
+        highlights:
+          - 'Advisor: Prof. Taehwan Kim'
+      - company: Data Science & Knowledge Discovery Lab (DSKD Lab), Tech University of Korea
+        position: Undergraduate Research Intern
+        location: Siheung, Korea
+        start_date: 2022-05
+        end_date: 2022-12
+        highlights:
+          - 'Advisor: Prof. Sungho Park'
+
+    publications:
+      - title: Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection
+        authors:
+          - Jaeho Cho
+          - '**Jinsik Bang**'
+          - Taehwan Kim
+        journal: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        date: 2027
+      - title: Environmental Understanding Vision-Language Model for Embodied Agent
+        authors:
+          - '**Jinsik Bang**'
+          - Jaeyeon Bae
+          - Donggye Lee
+          - Siyeol Jung
+          - Taehwan Kim
+        journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)
+        date: 2026
+      - title: Multi-aspect Knowledge Distillation with Large Language Model
+        authors:
+          - Taegyeong Lee\*
+          - '**Jinsik Bang**\*'
+          - Soyeong Kwon
+          - Taehwan Kim
+        journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+        summary: \* Equal contribution
+        date: 2025
+
+    patents:
+      - number: 'Report Generation and Prediction System of Home Appliance Based on Chatting Data, KR Patent Application No. 10-2026-0092334 (pending)'
+
+    projects:
+      - name: Development of a Power Plant Domain-Specific VLA Model and Real-Time Robot Control Technology
+        location: UNIST, Korea
+        start_date: 2026-05
+        end_date: present
+        highlights:
+          - Industry-academia collaborative project with Korea Hydro & Nuclear Power (KHNP)
+          - Developing an embodied simulator for the nuclear power plant domain
+      - name: AI Star Fellowship
+        location: UNIST, Korea
+        start_date: 2025-09
+        end_date: present
+        highlights:
+          - Research project supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP)
+          - "Sub-project (June 2026 – Nov 2026): *Development of an Environment Perception and Understanding Dataset for Human-Robot Embodied Reasoning*, an industry-academia collaboration with LG AI Research"
+          - Developed an embodied reasoning dataset and benchmark
+      - name: Development of a Multimodal Indoor AI Agent for Proactive Human-AI Interaction
+        location: UNIST, Korea
+        start_date: 2025-09
+        end_date: 2026-09
+        highlights:
+          - Research project supported by the National Research Foundation of Korea (NRF)
+          - Developed a trajectory dataset and benchmark for instruction-following agents that, based on user preferences, proactively perform or suggest additional tasks on their own
+      - name: Development of a Recycling Waste Sorting Robot Using a Multimodal Vision-Language Model
+        location: UNIST, Korea
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - Developed manipulation algorithms for a mobile manipulator that navigates around obstacles by storing objects in the current scene in a spatial memory
+      - name: Multi-modal for Implementing Smart Home Agent
+        location: UNIST, Korea
+        start_date: 2024-10
+        end_date: 2025-12
+        highlights:
+          - Industry-academia collaborative project with LG Electronics Home Appliance Solution (HS) Company
+          - Built an updatable memory that integrates and summarizes diverse user and household information for home-environment agents
+          - Filed a patent application based on this work (see Patents)
+      - name: SMT Inspection System using Deep Learning
+        location: Tech University of Korea, Korea
+        start_date: 2022-05
+        end_date: 2022-12
+        highlights:
+          - Research project supported by GRAND ICT Research Center
+          - Preprocessing abnormal data for training classification models
+      - name: Development of a Precision Analysis Methodology for CTC Data Using AI Technology
+        location: Tech University of Korea, Korea
+        start_date: 2022-05
+        end_date: 2022-11
+        highlights:
+          - Industry-academia collaborative project with Cytogen
+          - Data mining on bio-images and developing Random Forest-based classification algorithms
+          - Project results contributed to an abstract accepted at the AACR Annual Meeting 2023
+
+    awards_and_honors:
+      - name: Academic Excellence Scholarship, Tech University of Korea
+        date: 2022-11
+      - name: Full-tuition Scholarship, Tech University of Korea
+        date: 2022-06
+      - name: Academic Excellence Scholarship, Tech University of Korea
+        date: 2021-12
+      - name: Full-tuition Scholarship, Tech University of Korea
+        date: 2021-06
+
+    skills:
+      - label: Programming
+        details: Python, C, C++
+      - label: Deep Learning
+        details: PyTorch, ms-swift, LLaMA-Factory, TRL, vLLM
+      - label: Simulation & Robotics
+        details: NVIDIA Isaac Sim, NVIDIA Isaac Lab, Gazebo, ROS 2
+      - label: Computing Infrastructure
+        details: Kubernetes, Slurm, PBS
+
+    conferences:
+      - title: Trajectory-aware Success and Failure Experience Retrieval for VLM Agent
+        authors:
+          - Somin Lee
+          - '**Jinsik Bang**'
+          - Taehwan Kim
+        journal: Embodied AI Workshop @ CVPR 2026, Denver, United States, Poster
+        date: 2026-06
+      - title: Environmental Understanding Generation with M-LLM for Embodied AI
+        authors:
+          - '**Jinsik Bang**'
+          - Taehwan Kim
+        journal: Embodied AI Workshop @ CVPR 2024, Seattle, United States, Poster
+        date: 2024-06
+
+design:
+  theme: engineeringresumes
+  templates:
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        AUTHORS
+        *JOURNAL*
+        SUMMARY
+      date_and_location_column: DATE
