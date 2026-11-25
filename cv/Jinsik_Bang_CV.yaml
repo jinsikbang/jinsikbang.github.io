@@ -100,12 +100,6 @@ cv:
         highlights:
           - Research project supported by the National Research Foundation of Korea (NRF)
           - Developed a trajectory dataset and benchmark for instruction-following agents that, based on user preferences, proactively perform or suggest additional tasks on their own
-      - name: Development of a Recycling Waste Sorting Robot Using a Multimodal Vision-Language Model
-        location: UNIST, Korea
-        start_date: 2025-09
-        end_date: 2026-02
-        highlights:
-          - Developed manipulation algorithms for a mobile manipulator that navigates around obstacles by storing objects in the current scene in a spatial memory
       - name: Multi-modal for Implementing Smart Home Agent
         location: UNIST, Korea
         start_date: 2024-10
@@ -114,21 +108,6 @@ cv:
           - Industry-academia collaborative project with LG Electronics Home Appliance Solution (HS) Company
           - Built an updatable memory that integrates and summarizes diverse user and household information for home-environment agents
           - Filed a patent application based on this work (see Patents)
-      - name: SMT Inspection System using Deep Learning
-        location: Tech University of Korea, Korea
-        start_date: 2022-05
-        end_date: 2022-12
-        highlights:
-          - Research project supported by GRAND ICT Research Center
-          - Preprocessing abnormal data for training classification models
-      - name: Development of a Precision Analysis Methodology for CTC Data Using AI Technology
-        location: Tech University of Korea, Korea
-        start_date: 2022-05
-        end_date: 2022-11
-        highlights:
-          - Industry-academia collaborative project with Cytogen
-          - Data mining on bio-images and developing Random Forest-based classification algorithms
-          - Project results contributed to an abstract accepted at the AACR Annual Meeting 2023
 
     awards_and_honors:
       - name: Academic Excellence Scholarship, Tech University of Korea
@@ -167,6 +146,17 @@ cv:
 
 design:
   theme: engineeringresumes
+  page:
+    top_margin: 0.6in
+    bottom_margin: 0.6in
+  header:
+    space_below_name: 0.5cm
+    space_below_headline: 0.4cm
+    space_below_connections: 0.5cm
+  section_titles:
+    space_above: 0.4cm
+  sections:
+    space_between_regular_entries: 0.3cm
   templates:
     publication_entry:
       main_column: |-
