@@ -10,4 +10,6 @@ location: "Seattle, United States"
 
 **Jinsik Bang**, Taehwan Kim. Poster presentation at the Embodied AI Workshop @ CVPR 2024.
 
+[[Paper]](https://embodied-ai.org/papers/2024/29_Environmental_Understanding.pdf)
+
 ![Environmental Understanding Generation with M-LLM for Embodied AI](/images/CVPRW_Poster_2024.png)

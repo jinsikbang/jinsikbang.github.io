@@ -10,4 +10,6 @@ location: "Denver, United States"
 
 Somin Lee, **Jinsik Bang**, Taehwan Kim. Poster presentation at the Embodied AI Workshop @ CVPR 2026.
 
+[[Paper]](https://embodied-ai.org/papers/2026/28_Trajectory_aware_Success_an.pdf)
+
 ![Trajectory-aware Success and Failure Experience Retrieval for VLM Agent](/images/CVPRW_Poster_2026.png)
